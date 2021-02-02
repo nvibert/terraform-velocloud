@@ -1,0 +1,2 @@
+variable "vco" {}
+variable "token" {}
